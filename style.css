@@ -1,0 +1,16 @@
+.poem{
+    border: 23px double;
+    width: 900px;
+    margin-left: 100px;
+    border-radius:20% 80% 70% 30% / 57% 31% 69% 43% ;
+    border-image: url(6f0c1191c870ab3760830646f6408b8e.jpg)  30% round;
+    background-image: radial-gradient(rgb(255, 204, 109),rgb(255, 154, 154));
+    
+}
+b{
+    line-height: 30px;
+    font-size: 20px;
+    color: rgb(255, 0, 0);
+    /* text-shadow: 2px 3px   rgb(255, 1, 43); */
+   
+}
